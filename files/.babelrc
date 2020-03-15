@@ -1,8 +1,0 @@
-{
-  "plugins": [
-    ["babel-plugin-transform-jsx", {
-      "useVariables": true
-    }],
-    "@babel/plugin-proposal-class-properties"
-  ]
-}
